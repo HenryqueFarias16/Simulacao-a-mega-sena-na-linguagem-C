@@ -1,0 +1,1 @@
+# Simula-o-a-mega-sena-na-linguagem-C
